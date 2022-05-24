@@ -1,5 +1,5 @@
 # Christopher Parker, a.k.a is-PARKER #
-### Business Systems, Integration and Programming. ###
+### Business Systems - Integration - Development ###
 
 
 
