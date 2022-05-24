@@ -16,9 +16,13 @@
 ### Development ###
   Lastly, sometimes a client needs hands on software development. Either some scripting for data analysis, refactoring aging code, or a web application for special applications.
 
-##### A [resume of my experience.]([https://drive.google.com/file/d/1Dwr8phwm24AvwrCV7qyuUkOQMm91jCV2/view?usp=sharing])#####
 
-### My Competencies: ###
+
+
+##### A [resume of my experience.](https://drive.google.com/file/d/1Dwr8phwm24AvwrCV7qyuUkOQMm91jCV2/view?usp=sharing)
+
+
+#### My Competencies: ####
 - Python
 - Postgresql
 - HTML5/CSS3
