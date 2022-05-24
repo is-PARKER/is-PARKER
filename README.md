@@ -1,8 +1,6 @@
 # Christopher Parker
 ### Business Systems - Integration - Development ###
-**[Profile](https://is-parker.github.io/is-PARKER/)**
-
-**[Business Systems Resume](https://drive.google.com/file/d/1Dwr8phwm24AvwrCV7qyuUkOQMm91jCV2/view?usp=sharing)**
+**[Profile](https://is-parker.github.io/is-PARKER/)**  -- **[Business Systems Resume](https://drive.google.com/file/d/1Dwr8phwm24AvwrCV7qyuUkOQMm91jCV2/view?usp=sharing)**
 
 
 
