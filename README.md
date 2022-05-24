@@ -1,4 +1,5 @@
-### Hi there 👋
+### Christopher Parker, a.k.a is-PARKER ###
+## Business Systems, Integration and Programming. ##
 
 <!--
 **is-PARKER/is-PARKER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
