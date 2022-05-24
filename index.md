@@ -1,6 +1,3 @@
-# Christopher Parker - **is-PARKER** #
-### Business Systems, Integration and Development ###
-
   I specialize in working with customers to not only identify their business process needs, but integrate the systems needed for their success. Most clients need a solution out of the box, but sometimes those solutions need assembled with API integrations, DNS settings, or a little code to push information around. Other times, companies require refactoring internal code, writing lightweight web applications for specific needs, or just a small script to process customer data for analysis. I break down my process into three skill areas:
   
 ### Business Systems ###
@@ -18,3 +15,4 @@
   
 ### Development ###
   Lastly, sometimes a client needs hands on software development. Either some scripting for data analysis or a web application for special applications.
+
