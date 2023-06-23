@@ -1,5 +1,5 @@
 # Christopher Parker
-### Business Systems - Integration - Development ###
+### Dounting Engineer - Data Engineerin and Programmatic Analysis ###
 - **[Profile](https://is-parker.github.io/is-PARKER/)** 
 - **[Resume](https://drive.google.com/file/d/1Dwr8phwm24AvwrCV7qyuUkOQMm91jCV2/view?usp=sharing)**
 
