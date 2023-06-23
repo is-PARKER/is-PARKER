@@ -1,7 +1,6 @@
 # Christopher Parker
-### Dounting Engineer - Data Engineerin and Programmatic Analysis ###
-- **[Profile](https://is-parker.github.io/is-PARKER/)** 
-- **[Resume](https://drive.google.com/file/d/1Dwr8phwm24AvwrCV7qyuUkOQMm91jCV2/view?usp=sharing)**
+### Founding Engineer - Data Engineering and Programmatic Analysis ###
+
 
 
 
